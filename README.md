@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anikaitr!
+- 👀 I’m interested in Computer Science and Data Science.
+- 🌱 I’m currently learning discrete structures for Computer Science and Python programming.
+- 💞️ I’m looking to collaborate with my peers.
+- 📫 You can reach me through GitHub :)
